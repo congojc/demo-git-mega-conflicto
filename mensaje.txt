@@ -4,5 +4,6 @@ adios venus
 linea1
 linea3
 
-linea10h55
-linea50hhfh
+linea1054f
+linea50fsf
+
